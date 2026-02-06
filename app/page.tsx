@@ -17,6 +17,15 @@ export default function Home() {
         background: "linear-gradient(135deg, #fbcfe8, #fecaca)",
       }}
     >
+      <img
+  src="/IMG_2987.jpg"
+  alt="Celina 💕"
+  style={{
+    width: 250,
+    borderRadius: 20,
+    marginBottom: 20
+  }}
+/>
       <h1 style={{ fontSize: "2rem" }}>
         Dear Celina Ha, Will you go on a six months anniversary date with me? 💕
       </h1>
